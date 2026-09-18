@@ -1,0 +1,9 @@
+Tujuan: Pengujiannya untuk mengecek apakah AInya bisa digunakan dan tidak ada error
+
+Kateeeeegori:
+> Fungsi
+1) Pengguna bisa menggunakan nama file dan image file format apa saja
+
+> Tampilan
+- pake google colab
+
